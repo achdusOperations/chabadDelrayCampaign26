@@ -368,13 +368,13 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     }
  /*name of team in donor tag*/
  .team-up span{
-    color:#5a1431 !important;
+    color:#27365b !important;
 }
  /*be the first button*/
  #temporaryDonateButton{
     background:#fff !important;
     border-radius: 25px !important;
-    color:#5a1431 !important;
+    color:#27365b !important;
 }
 /*round search and sort by*/
 .right-filters-data .sort-by-f .form-control.custom-select,  .right-filters-data .input-group, .right-filters-data .input-group .input-group-addon{
