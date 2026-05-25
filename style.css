@@ -221,8 +221,8 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     }
     /*footer*/
     .fs-footer {
-        background: #27365B;
-        background: linear-gradient(90deg, rgba(39, 54, 91, 1) 0%, rgba(246, 145, 186, 1) 50%, rgba(255, 255, 255, 1) 100%);
+        background: #92AEEB;
+background: linear-gradient(nulldeg, rgba(146, 174, 235, 1) 14%, rgba(39, 54, 91, 1) 28%, rgba(153, 122, 187, 1) 42%, rgba(246, 145, 186, 1) 57%, rgba(238, 111, 138, 1) 72%, rgba(251, 183, 112, 1) 86%, rgba(255, 255, 255, 1) 100%);
     }
     
     .fs-footer .row>div:nth-of-type(1) h3, .fs-footer .row>div:nth-of-type(2) h3 , address {
