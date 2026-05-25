@@ -64,17 +64,17 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
 background:#FFF !important ;
 }
 .col-md-6.text-xs-center.text-md-right.fs-goal-text, .fs-goal .fs-goal-text strong{
-    color:#5a1431 !important;
+    color:#27365b !important;
 }
 .fs-goal .fs-goal-text .fs-goal-amount,.fs-goal .fs-goal-graph-container .fs-goal-graph-text span{
-    color:#e94a4a !important;
+    color:#f691ba !important;
 }
 /*goal meter  filled and then not filled*/
 .fs-goal-graph-fill{
-    background: #e94a4a !important;
+background: linear-gradient(45deg, rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138, 1) 50%, rgba(39, 54, 91, 1) 100%);
 }
 .fs-goal-graph{
-    background: #5a1431 !important;
+    background: #f691ba !important;
 }
 /*center goal*/
 @media (min-width:992px){
@@ -86,10 +86,10 @@ background:#FFF !important ;
 
 /*countdown*/
 .fs-countdown {
-    background:#ffbe9c !important;
+    background:#27365b !important;
     }
     .fs-countdown-number, .fs-countdown-sep{
-      color:#5a1431 !important;
+      color:#fff !important;
     }
     /*maximize in countdown*/
     .fs-countdown h3 strong {
@@ -112,7 +112,8 @@ background:#FFF !important ;
 
     /*section next to countdown*/
    .fs-donate {
-    background:#e94a4a;
+    background: #F691BA;
+background: linear-gradient(45deg, rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138, 1) 50%, rgba(39, 54, 91, 1) 100%);
 }
 .fs-countdowndonate .fs-countdown, .fs-countdowndonate .fs-donate{
     border-radius:25px !important;
@@ -120,7 +121,7 @@ background:#FFF !important ;
 
 
 div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
-    fill:#e94a4a !important;
+    fill:#F691BA !important;
 }
 
 /*dollar sign*/
@@ -131,19 +132,19 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 .fs-donate .fs-btn, .fs-donate .fs-btn:hover{    
     border-radius: 25px !important;
     background-color: #fff !important;
-    color:#e94a4a !important;
+    color:#27365b !important;
 }
 /*amount when typed*/
 .fs-donate .fs-donate-amounts .fs-amount{
-    color:#e94a4a !important;
+    color:#27365b !important;
 }
 
 /*main text*/
 .fs-about-text.js-about-text h3{
-    color:#5a1431 !important;
+    color:#27365b !important;
 }
 .fs-about-text.js-about-text h4{
-    color: #e94a4a !important;
+    color: #f691ba !important;
 }
 .fs-about-text.js-about-text p{
     font-size:16px !important;
@@ -164,7 +165,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 
 /*"Our donors"*/
 .donar-section{
-    background: #5a1431;
+    background: #f691ba;
     }
     .fs-partners>div{
         border-top:6px solid #f91c90 !important;
@@ -201,13 +202,14 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     
     /*donation page*/
     .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
-        color:#5a1431 !important;
+        color:#27365b !important;
         font-family: "Sniglet", serif !important;
     }
     
     /*amount boxes and button*/
     .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*, #fs-donate-form .fs-btn-donate,.fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div{
-        background-color: #e94a4a !important;
+        background: #F691BA;
+background: linear-gradient(45deg, rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138, 1) 50%, rgba(39, 54, 91, 1) 100%);
         color:#fff !important;
         border-radius:25px !important;
     }
@@ -339,11 +341,11 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
 
 /*donor,teams and about*/
 .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-link{
-    color: #fff !important;;
+    color: #27365b !important;;
     
 }
 .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
-    border-bottom: 3px solid #fff !important;
+    border-bottom: 3px solid #27365b !important;
 }
 
 /*round search and sort by*/
