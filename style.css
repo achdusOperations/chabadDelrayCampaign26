@@ -93,7 +93,10 @@ background: linear-gradient(45deg, rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138
     }
     /*maximize in countdown*/
     .fs-countdown h3 strong {
-        color:#fff;
+        background: #F691BA;
+background: linear-gradient(45deg,rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138, 1) 50%, rgba(39, 54, 91, 1) 100%);
+       -webkit-background-clip:text;
+       -webkit-text-fill-color:transparent;
     }
     .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description{
         color:#fff !important;
