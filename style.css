@@ -89,8 +89,14 @@ background: linear-gradient(45deg, rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138
 .fs-countdown {
     background:#27365b !important;
     }
-    .fs-countdown-number, .fs-countdown-sep{
+     .fs-countdown-sep{
       color:#fff !important;
+    }
+    .fs-countdown-number{
+        background: #F691BA;
+background: linear-gradient(45deg,rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138, 1) 50%, rgba(39, 54, 91, 1) 100%);
+       -webkit-background-clip:text;
+       -webkit-text-fill-color:transparent;
     }
     /*maximize in countdown*/
     .fs-countdown h3 strong {
@@ -104,7 +110,7 @@ background: linear-gradient(45deg,rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138,
     }
     /*left until...*/
     h3.fs-countdown-message {
-        color: #5a1431 !important;
+        color: #fff !important;
     } 
     /*full width*/
     .fs-countdowndonate{
