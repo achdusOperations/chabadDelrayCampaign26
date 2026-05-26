@@ -175,7 +175,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 
 /*"Our donors"*/
 .donar-section{
-    background: #f691ba;
+    background: #27365b;
     }
     .fs-partners>div{
         border-top:6px solid #f91c90 !important;
@@ -351,7 +351,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
 
 /*donor,teams and about*/
 .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-link{
-    color: #27365b !important;;
+    color: #fff !important;;
     
 }
 .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
