@@ -355,7 +355,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     
 }
 .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
-    border-bottom: 3px solid #27365b !important;
+    border-bottom: 3px solid #fff !important;
 }
 
 /*round search and sort by*/
