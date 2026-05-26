@@ -234,7 +234,7 @@ background: linear-gradient(45deg, rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138
         border-radius:25px !important;
     }
     .fs-full-donate-form .fs-donate-body .fs-effective-donation-container .fs-effective-donation-amount-container{
-        color:#e94a4a !important;
+        color:#F691BA !important;
     }
     /*amount boxes when selected*/
     .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {
