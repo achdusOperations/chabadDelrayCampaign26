@@ -387,32 +387,32 @@ margin-left:2px !important;
 
 /*left button*/
 a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
-    background:#e94a4a !important;
+    background: linear-gradient(45deg, rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138, 1) 50%, rgba(39, 54, 91, 1) 100%);
     border-radius: 25px !important;
     color:#fff !important;
 }
 /*right button*/
 a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
-    background:#e94a4a !important;
+    background: linear-gradient(45deg, rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138, 1) 50%, rgba(39, 54, 91, 1) 100%);
     border-radius: 25px !important;
     color:#fff !important;
 }
 /*filler filled and not filled*/
 .progress-flex .progress .progress-bar{
-    background: #ffbe9c !important;
+    background: linear-gradient(45deg, rgba(246, 145, 186, 1) 0%, rgba(238, 111, 138, 1) 50%, rgba(39, 54, 91, 1) 100%);
 }
 
 .progress-flex .progress{
-    background: #5a1431 !important;
+    background: #27365b !important;
 }
 /*text*/
 .team-members .team-users .donor-team span, .progress-flex .S-label span{
-    color:#5a1431 !important;
+    color:#f691ba !important;
 }
 /*title*/
 .team-members .team-users .user-name, .team-members .team-users .user-name a
 {
-    color:#5a1431
+    color:#27365b;
 }
 
 
@@ -448,17 +448,17 @@ color:#e94a4a !important;
 /*donation*/
   /*donor name*/
   .donate-members .donates_user .left_userd .user-name{
-    color:#5a1431 !important;
+    color:#27365b !important;
 }
 /*flag*/
 .donate-members .donates_user .donate-A{
-    background:#ffbe9c !important;
+    background:#27365b !important;
 }
 .donate-members .donates_user .donate-A::before{
-    border-bottom: 7px solid #ffbe9c !important;
+    border-bottom: 7px solid #27365b !important;
 }
 .donate-members .donates_user .donate-A .donate-triangle{
-    border-right:26px solid #ffbe9c !important;
+    border-right:26px solid #27365b !important;
 }
 
 
