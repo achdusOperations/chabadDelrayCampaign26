@@ -57,6 +57,16 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
   .donate-button .donate-button-text:hover{
     background: #F691BA !important;
   }
+
+  @media screen and (max-width: 700px) {
+    .donate-button .donate-button-text{
+        font-size:0.9em;
+        min-width:11em;
+    }
+    .donate-button:first-of-type{
+        padding-top:20px !important;
+    }
+  }
   /*goal section*/
   .jumbotron.fs-header {
     border-bottom: 4px solid #FFF !important;
